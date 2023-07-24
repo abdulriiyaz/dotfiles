@@ -20,7 +20,7 @@ To install these dotfiles, follow these steps:
 
 bash
 
-git clone https://github.com/your-username/dotfiles.git
+git clone https://github.com/abdulriiyaz/dotfiles.git
 cd dotfiles
 
 ### ->Symlink the configuration files to your home directory:
